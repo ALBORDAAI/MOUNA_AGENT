@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="MOUNA.jpg" alt="MOUNA — AI Executive Assistant" width="220">
+<img src="MOUNA.png" alt="MOUNA — AI Executive Assistant" width="220">
 
 # MOUNA
 ### The AI Executive Assistant, Native to Hassaniya
